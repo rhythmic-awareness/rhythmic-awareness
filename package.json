@@ -5,12 +5,14 @@
     "start": "vite --host 0.0.0.0"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "latest",
-    "@tailwindcss/vite": "latest",
-    "vite": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "tailwindcss": "latest"
+    "react-dom": "latest"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "vite": "latest",
+    "@vitejs/plugin-react": "latest",
+    "tailwindcss": "^3.4.0",
+    "postcss": "latest",
+    "autoprefixer": "latest"
+  }
 }
