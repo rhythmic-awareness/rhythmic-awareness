@@ -5,6 +5,7 @@
     "start": "vite --host 0.0.0.0"
   },
   "dependencies": {
+    "@vercel/analytics": "latest",
     "react": "latest",
     "react-dom": "latest"
   },
