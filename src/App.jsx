@@ -80,7 +80,7 @@ export default function RhythmicAwarenessLandingPage() {
             </p>
             <p>
               A business must know, operate, and especially market in harmony
-              with its identity.
+              with its identity and nature.
             </p>
           </div>
         </section>
