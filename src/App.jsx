@@ -8,10 +8,12 @@ export default function RhythmicAwarenessLandingPage() {
   linkText: "Visit Breathe Video →",
    },
     {
-      year: "2018",
-      title: "Animals + Bally",
-      body: "While working on the fashion documentary Animals, Benjamin connected with the Swiss luxury leather company Bally. They jointly released the film on May 3, 2018 with the re-release of the shoe chronicled in the movie. This opened his eyes to the possibilities available through media and to the power of belief.",
-    },
+  year: "2018",
+  title: "Animals + Bally",
+  body: "While working on the fashion documentary Animals, Benjamin connected with the Swiss luxury leather company Bally. They jointly released the film on May 3, 2018 with the re-release of the shoe chronicled in the movie. This opened his eyes to the possibilities available through media and to the power of belief.",
+  link: "https://breathevideonation.com/work/film/",
+  linkText: "Watch Documentary Here →",
+},
     {
       year: "2019",
       title: "CocoNola",
