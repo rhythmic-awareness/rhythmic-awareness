@@ -120,7 +120,7 @@ export default function RhythmicAwarenessLandingPage() {
         <StatementSection
           label="Our Identity"
           statement="We are a natural business rooted in the social responsibility of public art."
-          body="We have clients all over the world and are helping to encourage the landscape of marketing to build a strong, healthy, internally harmonious public. We believe in encouragement and love and lead with these beliefs."
+          body="We are guiding the landscape of marketing to build a strong, healthy, internally harmonious public. We believe in encouragement and love and lead with these beliefs."
         />
 
 
