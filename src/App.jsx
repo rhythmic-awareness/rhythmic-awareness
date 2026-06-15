@@ -28,7 +28,7 @@ export default function RhythmicAwarenessLandingPage() {
     {
       year: "2024",
       title: "Marketing Ethics + Ancient Technology",
-      body: "Began developing a philosophy of marketing ethics around ancient technology: storytelling. The question became: what responsibility does public messaging carry?",
+      body: "Began developing a philosophy of marketing ethics around ancient technology: storytelling and symbols. The question became: what responsibility does public messaging carry?",
     },
     {
       year: "2026",
