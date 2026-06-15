@@ -169,7 +169,7 @@ export default function RhythmicAwarenessLandingPage() {
               href="mailto:questions@rhythmicawareness.com"
               className="mt-8 block font-serif text-4xl md:text-6xl leading-tight hover:underline underline-offset-8"
             >
-              questions@rhythmicawareness.com
+              inquiries@rhythmicawareness.com
             </a>
           </div>
         </footer>
