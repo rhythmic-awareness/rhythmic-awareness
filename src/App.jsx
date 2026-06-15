@@ -39,11 +39,11 @@ export default function RhythmicAwarenessLandingPage() {
 
   const cards = [
     "Lead with Love.",
-    "Trust in self.",
+    "Success is subjective.",
     "What we possess, controls us.",
     "Identity builds certainty.",
     "Breathe deeply and forgive.",
-    "Harmony is homeostasis.",
+    "Homeostasis is based on communication.",
     "Encourage, entertain and educate.",
     "Be compassionate within.",
   ];
