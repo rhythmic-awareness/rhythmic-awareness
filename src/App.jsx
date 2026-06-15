@@ -4,16 +4,6 @@ export default function RhythmicAwarenessLandingPage() {
       year: "2012",
       title: "Breathe Video Founded in New Orleans",
       body: "Breathe Video was founded by Benjamin Simmons with the objective of turning the video camera on his hometown of New Orleans and sharing whatever his community wanted to communicate.",  
-<p className="mt-2">
-  <a
-    href="https://breathevideonation.com"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="text-white/60 hover:text-white underline"
-  >
-    Visit Breathe Video →
-  </a>
-</p>
     },
     {
       year: "2018",
