@@ -101,19 +101,30 @@ export default function RhythmicAwarenessLandingPage() {
             <div className="space-y-14">
               {timeline.map((item) => (
                 <article
-                  key={item.year}
-                  className="border-l border-white/20 pl-8"
-                >
-                  <p className="text-sm uppercase tracking-[0.3em] text-white/40">
-                    {item.year}
-                  </p>
-                  <h3 className="mt-4 font-serif text-3xl md:text-4xl">
-                    {item.title}
-                  </h3>
-                  <p className="mt-5 max-w-3xl text-lg leading-8 text-white/65">
-                    {item.body}
-                  </p>
-                </article>
+  key={item.year}
+  className="border-l border-white/20 pl-8"
+>
+  <p className="text-sm uppercase tracking-[0.3em] text-white/40">
+    {item.year}
+  </p>
+  <h3 className="mt-4 font-serif text-3xl md:text-4xl">
+    {item.title}
+  </h3>
+  <p className="mt-5 max-w-3xl text-lg leading-8 text-white/65">
+    {item.body}
+  </p>
+
+  {item.link && (
+    <a
+      href={item.link}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="mt-5 inline-block text-sm uppercase tracking-[0.25em] text-white/50 hover:text-white transition underline underline-offset-8 decoration-white/20 hover:decoration-white"
+    >
+      {item.linkText}
+    </a>
+  )}
+</article>
               ))}
             </div>
           </div>
