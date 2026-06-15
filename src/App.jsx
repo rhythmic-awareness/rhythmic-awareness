@@ -119,59 +119,10 @@ export default function RhythmicAwarenessLandingPage() {
 
         <StatementSection
           label="Our Identity"
-          statement="We are a successful business rooted in the social responsibility of public art, especially in messaging."
+          statement="We are a natural business rooted in the social responsibility of public art."
           body="We have clients all over the world and are helping to encourage the landscape of marketing to build a strong, healthy, internally harmonious public. We believe in encouragement and love and lead with these beliefs."
         />
 
-        <section className="border-t border-white/10">
-          <div className="max-w-6xl mx-auto px-6 py-24">
-            <p className="text-xs uppercase tracking-[0.45em] text-white/40">
-              Why
-            </p>
-
-            <div className="mt-10 max-w-4xl space-y-7 text-lg md:text-xl leading-9 text-white/70">
-              <p>
-                In 2012, Breathe Video was founded by Benjamin Simmons. His
-                objective was to turn the video camera on his hometown of New
-                Orleans and share whatever his community wanted to communicate.
-                This became a journey of discovering what he was made of and
-                developing his craft.
-              </p>
-
-              <p>
-                In 2017, while working on his fashion documentary Animals,
-                Benjamin connected with the Swiss luxury company Bally. They
-                jointly released his film on May 3, 2018 with the re-release of
-                the shoe that his movie was chronicling. This opened his eyes to
-                the possibilities available through media. With the success of
-                the shoe sales, he also understood the power of belief.
-              </p>
-
-              <p>
-                Over time, Benjamin realized that he could create media all day
-                with his clients, but the success of this media hinged on
-                awareness and interest. This led him to branding, marketing, and
-                persuasion. Much of what was sold as persuasion seemed aligned
-                with control, sleight of hand, or trickery.
-              </p>
-
-              <p>
-                Businesses and marketers leading with fear and lack impress
-                those feelings onto the general public. This felt irresponsible,
-                unsustainable, and too much like con-artistry. What the world
-                needs is to return to the original reason for storytelling and
-                public art: to educate, entertain, and encourage a calm,
-                productive, harmonious public.
-              </p>
-
-              <p>
-                In 2026, Rhythmic Awareness was born. Now these principles of
-                responsible public art can be learned, accessed, or applied
-                through consulting and creative work for your business.
-              </p>
-            </div>
-          </div>
-        </section>
 
         <section className="border-t border-white/10">
           <div className="max-w-6xl mx-auto px-6 py-24 grid md:grid-cols-2 gap-16">
