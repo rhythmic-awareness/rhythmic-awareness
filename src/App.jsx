@@ -8,7 +8,7 @@ export default function RhythmicAwarenessLandingPage() {
     {
       year: "2018",
       title: "Animals + Bally",
-      body: "While working on the fashion documentary Animals, Benjamin connected with the Swiss luxury company Bally. They jointly released the film on May 3, 2018 with the re-release of the shoe chronicled in the movie. This opened his eyes to the possibilities available through media and to the power of belief.",
+      body: "While working on the fashion documentary Animals, Benjamin connected with the Swiss luxury leather company Bally. They jointly released the film on May 3, 2018 with the re-release of the shoe chronicled in the movie. This opened his eyes to the possibilities available through media and to the power of belief.",
     },
     {
       year: "2019",
