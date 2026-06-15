@@ -1,10 +1,12 @@
 export default function RhythmicAwarenessLandingPage() {
   const timeline = [
-    {
-      year: "2012",
-      title: "Breathe Video Founded in New Orleans",
-      body: "Breathe Video was founded by Benjamin Simmons with the objective of turning the video camera on his hometown of New Orleans and sharing whatever his community wanted to communicate.",  
-    },
+      {
+  year: "2012",
+  title: "Breathe Video Founded in New Orleans",
+  body: "Breathe Video was founded by Benjamin Simmons with the objective of turning the video camera on his hometown of New Orleans and sharing whatever his community wanted to communicate.",
+  link: "https://breathevideonation.com",
+  linkText: "Visit Breathe Video →",
+   },
     {
       year: "2018",
       title: "Animals + Bally",
